@@ -1,4 +1,5 @@
-﻿hello world
-add second line
-add third line
-fix issue in edition.txt
+﻿first commit
+second commit
+third commit
+issue resolved
+new feature
